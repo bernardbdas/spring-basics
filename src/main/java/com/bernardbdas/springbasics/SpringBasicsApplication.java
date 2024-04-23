@@ -1,4 +1,4 @@
-package com.bernard.springbasics;
+package com.bernardbdas.springbasics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
